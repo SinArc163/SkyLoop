@@ -1,0 +1,5 @@
+*.uasset binary
+*.umap binary
+*.upack binary
+*.png binary
+*.fbx binary
